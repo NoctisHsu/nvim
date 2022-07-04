@@ -39,7 +39,7 @@ Check your package manager for availability if not on an Arch based distro -
 _brew, apt_ etc.
 
 ```bash
-sudo pacman -S lua-language-server pyright deno rust-analyzer gopls
+brew install lua-language-server pyright deno rust-analyzer gopls
 ```
 
 ## Install formatters
@@ -53,7 +53,7 @@ npm i -g prettier
 [ stylua ](https://github.com/JohnnyMorganz/StyLua) is in the AUR
 
 ```bash
-pamac install stylua
+brew install stylua
 ```
 
 Check your package manager for availability if not on an Arch based distro -
@@ -63,7 +63,7 @@ _brew, apt_ etc.
 repos
 
 ```bash
-sudo pacman -S autopep8
+brew install autopep8
 ```
 
 Check your package manager for availability if not on an Arch based distro -
@@ -72,7 +72,8 @@ _brew, apt_ etc.
 [yamlfmt](https://pypi.org/project/yamlfmt/) for yaml available with pip
 
 ```bash
-sudo pip install yamlfmt
+brew install devopyio/yamlfmt/yamlfmt
+
 ```
 
 ## Launch Nvim
