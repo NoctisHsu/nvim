@@ -9,9 +9,8 @@ aimed at web development but ready to go with Python, Rust, Golang, Deno and Lua
 Uses the latest 0.7+ Neovim
 
 ## Clone the repository into ~/.config/nvim 
-
 ```bash
-git clone https://github.com/noctishsu/nvim.git ~/.config/nvim
+git clone https://github.com/NoctisHsu/nvim.git ~/.config/nvim
 ```
 
 ## Install Packer
